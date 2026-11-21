@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Sportwears — Interactive Sports Uniform Studio",
+  "description": "Interactive 3D sports uniform studio, manufacturer catalog, and bulk team kit configurator by Gemini Sportwears.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
